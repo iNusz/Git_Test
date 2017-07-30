@@ -17,6 +17,7 @@ public class MainActivity extends AppCompatActivity {
 
         Button ㅁㅁ = new Button(this);
         Button ㄹㄹ = new Button(this);
+        Button ff = new Button(this);
 
 
         // gigihihihi
