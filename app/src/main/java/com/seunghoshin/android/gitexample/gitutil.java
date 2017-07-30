@@ -7,7 +7,7 @@ package com.seunghoshin.android.gitexample;
 public class gitutil {
 
     public static void sd(){
-
+        ///ㅁㅁ
     }
 
 }
